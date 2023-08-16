@@ -16,6 +16,10 @@ export function App(){
             author="Fernanda"
             content="Novo projeto"
           />
+          <Post 
+          author="Fernanda"
+          content="Novo projeto"
+          />
         </main>
       </div>
     </div>
